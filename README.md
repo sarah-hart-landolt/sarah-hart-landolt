@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Sarah! 👋
 <img src="https://github.com/sarah-hart-landolt/sarah-hart-landolt/blob/master/Sarah%20Hart%20Landolt.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
 - 🌱 I’m currently learning Android while sharpening my skills in C#, JavaScript, and React. 
 - 📫 How to reach me: sarah.hart.landolt@gmail.com
