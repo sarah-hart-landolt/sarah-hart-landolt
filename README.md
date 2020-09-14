@@ -7,7 +7,7 @@
 - ⚡ Fun fact: I speak French fluently and am an abstract artist.
 
 
-![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=sarah-hart-landolt img align="left" width="150" height="150")
+![top-langs](img align="left" width="150" height="150" https://github-readme-stats.vercel.app/api/top-langs?username=sarah-hart-landolt)
 <!--
 **sarah-hart-landolt/sarah-hart-landolt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
