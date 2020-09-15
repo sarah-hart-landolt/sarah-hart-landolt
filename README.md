@@ -2,6 +2,8 @@
 <img src="https://github.com/sarah-hart-landolt/sarah-hart-landolt/blob/master/Sarah%20Hart%20Landolt.png" alt="banner that says Sarah hart Landolt - software developer, artist, designer">
 
 - 🌱 I’m currently learning Android while sharpening my skills in C#, JavaScript, and React. 
+- 🔭 Check out these two Apps that I built from scratch : ![Paris-Passe-Partout](https://github.com/sarah-hart-landolt/Paris-Passe-Partout)
+
 - 📫 How to reach me: sarah.hart.landolt@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I speak French fluently and am an abstract artist.
