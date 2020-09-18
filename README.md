@@ -10,8 +10,6 @@
      - [Feeling Heart](https://github.com/sarah-hart-landolt/Feeling-Heart-Chart)
 - 📫 How to reach me: sarah.hart.landolt@gmail.com || [Dev Portfolio](https://sarah-hart-landolt.github.io/) || [Artist Site](https://www.sarahhartlandolt.com/)
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I won "Best Hair" from my cohort at Nashville Software School due to my wild, untamable curly mane. 
-     - Developers.OrderBy(dev => dev.HairSize).Last())
 
 <br/>
 
@@ -74,5 +72,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: I won "Best Hair" from my cohort at Nashville Software School due to my wild, untamable curly mane. 
+     - Developers.OrderBy(dev => dev.HairSize).Last())-->
