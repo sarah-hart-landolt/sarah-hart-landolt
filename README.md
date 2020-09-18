@@ -13,9 +13,14 @@
 - ⚡ Fun fact: I won "Best Hair" from my cohort at Nashville Software School due to my wild, untamable curly mane. 
      - Developers.OrderBy(dev => dev.HairSize).Last())
 
+<br/>
 
 ![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=sarah-hart-landolt&show_icons=true&theme=radical)
 ![github stats](https://github-readme-stats.vercel.app/api?username=sarah-hart-landolt&show_icons=true&theme=radical)
+
+<br/>
+<br/>  
+
 
 
 ## My Skill Set  
