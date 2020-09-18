@@ -15,8 +15,8 @@
      - Developers.OrderBy(dev => dev.HairSize).Last())
 
 
-![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=sarah-hart-landolt)
-![github stats](https://github-readme-stats.vercel.app/api?username=sarah-hart-landolt)
+![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=sarah-hart-landolt&show_icons=true&theme=radical)
+![github stats](https://github-readme-stats.vercel.app/api?username=sarah-hart-landolt&show_icons=true&theme=radical)
 
 
 ## My Skill Set  
