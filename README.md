@@ -1,4 +1,6 @@
-<img src="https://github.com/sarah-hart-landolt/sarah-hart-landolt/blob/master/Sarah%20Hart%20Landolt.png" alt="banner that says Sarah hart Landolt - software developer, artist, designer">
+
+![Sarah hart Landolt, software developer, artist](https://github.com/sarah-hart-landolt/sarah-hart-landolt/blob/master/Sarah%20Hart%20Landolt.png)
+
 
 ### Hi there, I'm Sarah! 👋
 <img align="right" width="200" height="200" src="https://sarah-hart-landolt.github.io/assets/images/SHL%20LOGO%20CODING1.png"></a>
